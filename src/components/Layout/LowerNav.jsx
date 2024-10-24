@@ -14,7 +14,7 @@ const LowerNav = () => {
         boxShadow:
           "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
       }}
-      className="w-full h-20 border-t bg-white border-slate-500 fixed bottom-0 flex items-center"
+      className="w-[500px] h-20 border-t bg-white border-slate-500 fixed bottom-0 flex items-center"
     >
       <div className="w-full flex items-center justify-between px-3">
         {navs.map((nav) => (

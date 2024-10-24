@@ -9,7 +9,7 @@ import EGameSection from "./EGameSection";
 const FloatingNav = () => {
   const [currentTab, setCurrentTab] = useState("Sports");
   return (
-    <div className="w-full h-fit ">
+    <div className="w-full h-fit bg-blue-50">
       <div className="bg-[#1B1F23] flex flex-col items-center py-3">
         <div className="overflow-x-auto scroll-smooth w-full  flex items-center">
           <div className="flex items-center gap-x-2 px-2">

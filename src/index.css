@@ -9,10 +9,16 @@
 }
 body {
   background-color: #eeeeee;
+  background-image: url("/images/velki-desktop-bg.webp");
+  background-position: top;
+  background-size: cover;
+  /* position: absolute; */
 }
+
 div::-webkit-scrollbar {
   display: none;
 }
+
 div {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */

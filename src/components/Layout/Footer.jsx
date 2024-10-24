@@ -4,7 +4,7 @@ import { FaFacebook } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="my-16">
+    <div className="py-16 bg-blue-50">
       <div className="flex flex-col gap-1 items-center">
         <img className="w-36" src="/images/downloadImg.webp" alt="" />
         <p className="text-gray-400 text-xs">v1.11 - 2022/3/8 - 2.6MB</p>

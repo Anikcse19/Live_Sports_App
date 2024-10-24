@@ -6,7 +6,7 @@ import { IoMicOutline } from "react-icons/io5";
 
 function App() {
   return (
-    <div>
+    <div className="w-[500px] mx-auto">
       <Header />
       <div className="mt-16">
         <HomeBanner />

@@ -3,7 +3,7 @@ import { IoMdLogIn } from "react-icons/io";
 
 const Header = () => {
   return (
-    <div className="fixed  top-0 z-[1000] w-full h-16 bg-yellow-400 flex items-center">
+    <div className="fixed  top-0 z-[1000] w-[500px] h-16 bg-yellow-400 flex items-center">
       <div className="w-full  px-2 flex items-center justify-between">
         {/* logo */}
         <div>
